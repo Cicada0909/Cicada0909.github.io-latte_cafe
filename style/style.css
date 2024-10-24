@@ -56,3 +56,48 @@ a {
     
 }
 
+.section-preview {
+    background-color: #4A2B33;;
+    margin: 0 auto;
+    
+}
+
+.section__wrapper {
+    padding-bottom: 36px;
+    display: flex;
+    max-width: 1328px;
+    margin: 0 auto;
+}
+
+.section-preview__img {
+    display: flex;
+    max-width: 1328px;
+    margin: 0 auto;
+}
+
+.section-description {
+    height: 713px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-description__wrapper {
+    width: 800px;
+    font-size: 32px;
+    text-align: center;
+}
+
+.section-descripton__text--italic {
+    font-style: italic;
+}
+
+.text--bold {
+    font-weight: 700;
+    font-family: 'Azeret Mono', sans-serif;
+}
+
+.section-description__title {
+    font-size: 17px;
+    margin-bottom: 3px;
+}
