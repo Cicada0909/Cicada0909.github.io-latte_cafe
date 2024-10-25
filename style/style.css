@@ -152,3 +152,11 @@ a {
     gap: 12px;
 }
 
+.article-menu__wrapper-image {
+    max-width: 664px;
+}
+
+.article-menu__image {
+    max-width: 100%;
+}
+
